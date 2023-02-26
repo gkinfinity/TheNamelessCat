@@ -5,3 +5,6 @@ Credit:
 Nick Turner
 Andre Felix
 Ismael Lopez
+
+Link to Itch.io project:
+https://gkinfinity.itch.io/thenamelesscat
